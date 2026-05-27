@@ -98,6 +98,16 @@ python app.py
 
 ---
 
+## Model Accuracy
+
+The trained Machine Learning model achieved an accuracy score of:
+
+```text
+Accuracy: 84%
+```
+
+---
+
 ## Data Visualization
 
 The project includes visualizations using:
@@ -105,11 +115,47 @@ The project includes visualizations using:
 - Seaborn
 - Matplotlib
 
-Examples:
-- Customer distribution
+### Customer Churn Count
+
+This graph shows the number of customers who churned and those who stayed.
+
+![Churn Count](graphs/churn_count.png)
+
+---
+
+### Monthly Charges Distribution
+
+This visualization shows the distribution of customer monthly charges.
+
+![Monthly Charges Distribution](graphs/monthly_charges.png)
+
+---
+
+### Confusion Matrix
+
+The confusion matrix helps evaluate the classification performance of the model.
+
+![Confusion Matrix](graphs/confusion_matrix.png)
+
+---
+
+### Top Important Features
+
+This graph displays the most important features affecting customer churn prediction.
+
+![Top Important Features](graphs/top_features.png)
+
+---
+
+## Exploratory Data Analysis (EDA)
+
+Examples of analysis performed:
+
+- Customer distribution analysis
 - Churn analysis
 - Correlation heatmaps
-- Feature importance graphs
+- Monthly charges analysis
+- Feature importance analysis
 
 ---
 
@@ -126,9 +172,11 @@ Examples:
 
 GitHub: @pamarthivvsnvardhan
 
+GitHub Repository:
+https://github.com/pamarthivvsnvardhan/customer-churn-prediction
+
 ---
 
 ## License
 
 This project is licensed under the MIT License.
-
