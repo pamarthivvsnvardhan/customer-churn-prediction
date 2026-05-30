@@ -169,14 +169,9 @@ Examples of analysis performed:
 ---
 
 ## Author
-
-GitHub: @pamarthivvsnvardhan
-
-GitHub Repository:
-https://github.com/pamarthivvsnvardhan/customer-churn-prediction
+PAMARTHI.V.V.S.N.VARDHAN
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
+Connect With Me On LINKEDIN
+https://www.linkedin.com/in/pamarthi-v-v-s-n-vardhan?utm_source=share_via&utm_content=profile&utm_medium=member_android
