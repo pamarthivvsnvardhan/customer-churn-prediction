@@ -119,7 +119,6 @@ The project includes visualizations using:
 
 This graph shows the number of customers who churned and those who stayed.
 
-![Churn Count](graphs/churn_count.png)
 
 ---
 
@@ -127,7 +126,6 @@ This graph shows the number of customers who churned and those who stayed.
 
 This visualization shows the distribution of customer monthly charges.
 
-![Monthly Charges Distribution](graphs/monthly_charges.png)
 
 ---
 
@@ -135,7 +133,6 @@ This visualization shows the distribution of customer monthly charges.
 
 The confusion matrix helps evaluate the classification performance of the model.
 
-![Confusion Matrix](graphs/confusion_matrix.png)
 
 ---
 
@@ -143,7 +140,6 @@ The confusion matrix helps evaluate the classification performance of the model.
 
 This graph displays the most important features affecting customer churn prediction.
 
-![Top Important Features](graphs/top_features.png)
 
 ---
 
