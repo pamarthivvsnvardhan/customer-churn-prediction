@@ -103,7 +103,7 @@ python app.py
 The trained Machine Learning model achieved an accuracy score of:
 
 ```text
-Accuracy: 84%
+Accuracy: 79%
 ```
 
 ---
